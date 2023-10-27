@@ -1,0 +1,48 @@
+/* style.css */
+
+@import url("components/banner.css");
+
+body {
+    font-family: New Times Roman, serif;
+    background-color: #F6F0ED;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #E71D36;
+    width: 1000px
+    text-align: center;
+}
+
+p {
+    color: #FFB800;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 10;
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+}
+
+.menu li {
+    text-align: center;
+    margin: 0 10px;
+    font-family: lora, sans-serif;
+    color: #937666;
+}
+
+.menu img {
+    width: 300px;
+    border-radius: 50%;
+}
+.button{
+
+}
+
+
+
+/* Add more styles as needed */

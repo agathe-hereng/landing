@@ -1,0 +1,28 @@
+/* banner.css */
+
+.banner {
+    background-image: url("../../images/background.JPG");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+.banner-content {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+.banner-title {
+    font-size: 36px;
+    margin: 10px 0;
+}
+
+.banner-subtitle {
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+/* Add more styles as needed */
